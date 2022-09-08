@@ -7,15 +7,9 @@
  */
 int main(void)
 {
-        char size32[] = "Size of a char: 1 byte\nSize of an int: 4 bytes\n
-		Size of a long int: 4 bytes\nSize of a long long int: 8 bytes\n
-		Size of a float: 4 bytes\n";
-
 	char size64[] = "Size of a char: 1 byte\nSize of an int: 4 bytes\n
-		Size of a long int: 8 bytes\nSize of a long long int: 8 bytes\n
-		Size of a float: 4 bytes\n";
-
-        puts(size32);
+Size of a long int: 8 bytes\nSize of a long long int: 8 bytes\n
+gize of a float: 4 bytes\n";
 
 	puts(size64);
 
