@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc 6-size.c -o size64
+gcc 6-size.c -o size32
