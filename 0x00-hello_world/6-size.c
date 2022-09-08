@@ -1,17 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - Starting point
  *
- * Return: Ending with a value of 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	char size64[] = "Size of a char: 1 byte\nSize of an int: 4 bytes\n
-Size of a long int: 8 bytes\nSize of a long long int: 8 bytes\n
-gize of a float: 4 bytes\n";
+	printf("Size of a char: 1 byte\nSize of an int: 4 bytes\nSize of a long int: 8 bytes\nSize of a long long int: 8 bytes\nSize of a float:4 bytes");
 
-	puts(size64);
-
-        return (0);
+	return (0);
 }
