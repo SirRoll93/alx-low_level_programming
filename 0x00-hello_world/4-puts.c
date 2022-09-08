@@ -11,7 +11,5 @@ int main(void)
 
 	puts(Multi);
 
-	puts(stderr, "Help!");
-
 	return (0);
 }
