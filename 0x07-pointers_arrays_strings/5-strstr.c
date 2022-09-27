@@ -7,7 +7,7 @@
  *
  * Return: pointer to first occurence of the given string
  */
-char *_strstr(char *haystack, char *needle);
+char *_strstr(char *haystack, char *needle)
 {
 	int i, j;
 

@@ -6,7 +6,7 @@
  * @accept: string containing the list of characters to natch
  * Return: results
  */
-unsigned int _strspn(char *s, char *accept);
+unsigned int _strspn(char *s, char *accept)
 {
 	int i, j;
 	unsigned int result = 0;

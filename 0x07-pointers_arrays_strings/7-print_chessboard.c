@@ -7,7 +7,7 @@
  * Description: a function to display the chessboard
  * Return: No return
  */
-void print_chessboard(char (*a)[8]);
+void print_chessboard(char (*a)[8])
 {
 	int i, j;
 

@@ -6,7 +6,7 @@
  * @c: This is the character to be searched in s
  * Return: 0
  */
-char *_strchr(char *s, char c);
+char *_strchr(char *s, char c)
 {
 	int i;
 
