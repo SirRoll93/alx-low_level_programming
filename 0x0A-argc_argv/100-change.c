@@ -3,15 +3,17 @@
 #include "main.h"
 
 /**
- * main - this is a function to print its name
- * @argc: argc parameter
- * @argv: an array of a command listed
+ * main - prints the minimum number of coins to
+ * make change for an amount of money
+ * @argc: number of arguments
+ * @argv: an array of arguments
+ *
  * Return: 0 for success
  */
 int main(int argc, char *argv[])
 {
 	int num, j, result = 0;
-	int coin[] = {25, 10, 5, 2, 1};
+	int coins[] = {25, 10, 5, 2, 1};
 
 	if (argc != 2)
 	{
