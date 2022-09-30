@@ -1,6 +1,6 @@
-#include "main.h"
 #include <stdio.h>
 #include <stdlib.h>
+#include "main.h"
 
 /**
  * main - this is a function to print its name
@@ -15,7 +15,7 @@ int main(int argc, char *argv[])
 
 	if (argc != 2)
 	{
-		printf("%s\n", "Error");
+		printf("Error\n");
 		return (1);
 	}
 
@@ -29,10 +29,11 @@ int main(int argc, char *argv[])
 	{
 		while (num >= coins[j])
 		{
-			num -= coins[j];
 			result++;
+			num -= coins[j];
 		}
 	}
+
 	printf("%d\n", result);
 	return (0);
 }
