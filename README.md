@@ -22,3 +22,9 @@ Directory | Files
 [0x08-recursion](https://github.com/SirRoll93/alx-low_level_programming/tree/master/0x08-recursion) | 0-main.c,0-puts_recursion.c,1-print_rev_recursion.c,100-is_palindrome.c,101-wildcmp.c,2-strlen_recursion.c,3-factorial.c,4-pow_recursion.c,5-sqrt_recursion.c,6-is_prime_number.c,_putchar.c,main.h
 [0x09-static_libraries](https://github.com/SirRoll93/alx-low_level_programming/tree/master/0x09-static_libraries) | 0-isupper.c,0-memset.c,0-strcat.c,1-isdigit.c,1-memcpy.c,1-strncat.c,100-atoi.c,2-strchr.c,2-strlen.c,2-strncpy.c,3-islower.c,3-puts.c,3-strcmp.c,3-strspn.c,4-isalpha.c,4-strpbrk.c,5-strstr.c,6-abs.c,9-strcpy.c,_putchar.c,create_static_lib.sh,libmy.a,main.h,quote
 [0x0A-argc_argv](https://github.com/SirRoll93/alx-low_level_programming/tree/master/0x0A-argc_argv) | 0-whatsmyname.c,1-args.c,100-change.c,2-args.c,3-mul.c,4-add.c,_putchar.c,main.h
+[0x0B-malloc_free](https://github.com/SirRoll93/alx-low_level_programming/tree/master/0x0B-malloc_free) | 0-create_array.c,1-strdup.c,100-argstostr.c,101-strtow.c,2-str_concat.c,3-alloc_grid.c,4-free_grid.c,main.h.
+[0x0C-more_malloc_free](https://github.com/SirRoll93/alx-low_level_programming/tree/master/0x0C-more_malloc_free) | 0-malloc_checked.c,1-string_nconcat.c,100-realloc.c,101-mul.c,2-calloc.c,3-array_range.c,main.h,_putchar.c.
+[0x0D-preprocessor](https://github.com/SirRoll93/alx-low_level_programming/tree/master/0x0D-preprocessor) | 0-object_like_macro.h,1-pi.h,2-main.c,3-function_like_macro.h,4-sum.h.
+[0x0E-structures_typedef](https://github.com/SirRoll93/alx-low_level_programming/tree/master/0x0E-structures_typedef) | 1-init_dog.c,2-print_dog.c,4-new_dog.c,5-free_dog.c,dog.h.
+[0x0F-function_pointers](https://github.com/SirRoll93/alx-low_level_programming/tree/master/0x0F-function_pointers) | 0-print_name.c,1-array_iterator.c,2-int_index.c,3-calc.h,3-get_op_func.c,3-main.c,3-op_functions.c,function_pointers.h.
+In-progress.. | Progressing
