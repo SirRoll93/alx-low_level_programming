@@ -59,7 +59,7 @@ You are not allowed to directly call op_add, op_sub, op_mul, op_div or op_mod fr
 You have to use atoi to convert arguments to int\
 You are not allowed to use any kind of loop\
 You are allowed to use a maximum of 3 if statements\
-ompilation and examples\
+compilation and examples\
 `gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-op_functions.c 3-get_op_func.c -o calc`
 `./calc 97 + 1` output is `90`
 #END_OF_README
