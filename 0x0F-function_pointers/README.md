@@ -15,4 +15,4 @@ examples | `./calc 97 + 1`
 output | `90`
 [.gitignore](https://github.com/SirRoll93/alx-low_level_programming/blob/master/0x0F-function_pointers/.gitignore) | These are files not pushed remotely
 
-#END_OF_README
+# END_OF_README
