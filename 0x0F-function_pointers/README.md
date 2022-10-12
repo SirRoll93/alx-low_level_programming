@@ -13,5 +13,6 @@ Task 3 | Write a program that performs simple operations.\You are allowed to use
 Compilation | `gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-op_functions.c 3-get_op_func.c -o calc`,
 examples | `./calc 97 + 1` 
 output | `90`
+.gitignore | These are files not pushed remotely
 
 #END_OF_README
