@@ -1,3 +1,4 @@
 *-main.c
 *.a
-test.c
+0-main.c
+1-main.c
