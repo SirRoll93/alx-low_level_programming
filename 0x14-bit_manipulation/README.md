@@ -32,9 +32,10 @@ Task 5.101 Write a function that returns the number of bits you would need to fl
 Prototype: unsigned int flip_bits(unsigned long int n, unsigned long int m);\
 You are not allowed to use the % or / operators
 -------------------------------------------------------------------------
-# ADVANCED TASKS
-------------------------------------------------------------------------
-Task 6.110
-----------------------------------------------------------------------
-Task 7.111
----------------------------------------------------------------------------
+# BITWISE OPERATORS
+``Bitwise AND - &``
+``Bitwise OR - |``
+``Exclusive OR - ^``
+``Bitwise NOT - ~``
+``Left-shift - <<``
+``Right-shift - >>``
